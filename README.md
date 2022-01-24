@@ -1,1 +1,1 @@
-[![Sanstale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanstale&show_icons=true&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=000&text_color=fff&icon_color=fff)](https://github.com/Sanstale)
+[![Sanstale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanstale&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=000&text_color=fff&icon_color=fff)](https://github.com/Sanstale)
